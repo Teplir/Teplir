@@ -1,7 +1,6 @@
-👋 Hey there, I'm Teplir
-🧠 Minecraft Developer
-I'm a Skript developer!
-I focus on building efficient systems, designing efficient architectures, and pushing the boundaries of what’s possible on the server side.
+👋 Hey there, I'm Teplir, a Minecraft Developer
+
+I focus on building efficient systems and attempting to push the boundaries of what is possible with Skript
 
 ⚙️ Main Language
 Skript
