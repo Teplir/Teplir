@@ -1,10 +1,9 @@
-👋 Hey there, I'm Teplir, a Minecraft Developer
-
-I focus on building efficient systems and attempting to push the boundaries of what is possible with Skript
+👋 Hey there, I'm Teplir, an aspiring Windows mod developer
 
 ⚙️ Main Language
-Skript
+C++
 
 🌍 About Me
-🎮 Focused on Minecraft Server Development but I'm looking into other things such as backend development and other coding languages
+🎮 I've been coding in C++ for 1 day
+🦅 I created the popular MacOS Top Bar mod for WindHawk
 💬 Not currently open to commisions
