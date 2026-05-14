@@ -1,9 +1,9 @@
-👋 Hey there, I'm Teplir, an aspiring Windows mod developer
+👋 Hey there, I'm Teplir, an aspiring Minecraft sevrer creator & owner!
 
 ⚙️ Main Language
-C++
+Skript & YAML
 
 🌍 About Me
-🎮 I've been coding in C++ for 1 day
-🦅 I created the popular MacOS Top Bar mod for WindHawk
+🎮 I've been coding in Skript for 6 months
+💰 I created EarnMC, a MineKeep server
 💬 Not currently open to commisions
