@@ -1,6 +1,8 @@
-👋 Hey there, I'm Teplir, an aspiring Minecraft sevrer creator & owner!
+👋 Hey there, I'm Teplir, a Minecraft Developer!
 
-⚙️ Main Language
+🚀 I focus on building efficient systems and attempting to push the boundaries of what is possible with Skript
+
+⚙️ Main Languages
 Skript & YAML
 
 🌍 About Me
