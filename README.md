@@ -1,14 +1,13 @@
-👋 Hey there, I'm Teplir, a **Minecraft Developer**!
+#👋 Hey, I'm Teplir, a **Minecraft Developer**!
 
 🚀 I focus on building efficient systems and attempting to push the boundaries of what is possible with **Skript**
 
-⚙️ Main Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
-</p>
+## ⚙️ Main Languages
+- ⚡ Skript
+- 📝 YAML
 
-🌍 About Me
-🎮 I've been coding in Skript for 6 months
+## 🌍 About Me
+🎮 I've been coding in Skript for ~6 months
 💰 I created EarnMC, a MineKeep server
 💬 Not currently open to commisions
 
