@@ -13,4 +13,4 @@
 
 ## 📫 Contact Me
 > The best way to reach me is on **Discord**:
-- [![Join My Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/jW9fgnFrWr)
+> [![Join My Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/jW9fgnFrWr)
